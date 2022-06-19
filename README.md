@@ -37,7 +37,7 @@ terraform apply
 ## Explication 
 Dans /module on trouve les fichies pour le bucket :
 
-main.tf /br
+main.tf <br>
 outputs.tf
 variable.tf
 
