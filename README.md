@@ -1,4 +1,17 @@
-# AWS S3 static website bucket
+# Description /br
+Déploiement d'une application dans une fonction lambda /br
+
+## Objectif /br
+Déploiement de code présent dans un bucket s3 dans une fonction lambda sur AWS en créant un module terraform /br
+
+## Boîte à outils /br
+1. Visual Studio Code
+2. Compte AWS + AWS Cli
+3. Key SSH
+4. Ne pas oublier le .gitignore pour les données personnelles
+
+# Déploiement d'un bucket 
+AWS S3 static website bucket
 
 This module provisions AWS S3 buckets configured for static website hosting.
 
@@ -13,5 +26,13 @@ module "<module name>" {
     }
 }
 ```
+## Démarrage module
 
-When your bucket is created, upload an `index.html` file and an `error.html` file in your bucket.
+Se mettre à la racine du projet
+```
+terraform init
+terraform plan
+terraform apply
+```
+## Notes 
+Tu es devenu(e) un jeune padawan du module Terraform !!
