@@ -1,8 +1,8 @@
 # Description 
-Déploiement d'une application dans une fonction lambda /br
+Déploiement d'une application dans une fonction lambda 
 
 ## Objectif 
-Déploiement de code présent dans un bucket s3 dans une fonction lambda sur AWS en créant un module terraform /br
+Déploiement de code présent dans un bucket s3 dans une fonction lambda sur AWS en créant un module terraform 
 
 ## Boîte à outils 
 1. Visual Studio Code
