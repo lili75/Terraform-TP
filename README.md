@@ -34,5 +34,11 @@ terraform init
 terraform plan
 terraform apply
 ```
+## Explication 
+Dans /module on trouve les fichies pour le bucket :
+main.tf
+outputs.tf
+variable.tf
+
 ## Notes 
 Tu es devenu(e) un jeune padawan du module Terraform !!
