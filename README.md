@@ -38,8 +38,8 @@ terraform apply
 Dans /module on trouve les fichies pour le bucket :
 
 main.tf <br>
-outputs.tf
-variable.tf
+outputs.tf <br>
+variable.tf <br>
 
 ## Notes 
 Tu es devenu(e) un jeune padawan du module Terraform !!
