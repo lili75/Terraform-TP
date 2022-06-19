@@ -1,10 +1,10 @@
-# Description /br
+# Description 
 Déploiement d'une application dans une fonction lambda /br
 
-## Objectif /br
+## Objectif 
 Déploiement de code présent dans un bucket s3 dans une fonction lambda sur AWS en créant un module terraform /br
 
-## Boîte à outils /br
+## Boîte à outils 
 1. Visual Studio Code
 2. Compte AWS + AWS Cli
 3. Key SSH
